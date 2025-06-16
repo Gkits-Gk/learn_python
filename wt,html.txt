@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+p.center{
+        text.align:center;
+        color:red;
+}
+p.large{
+        font-size:300%;
+}
+</style>
+<h1 class="center">heading will not be effective.</h>
+<p class="center">my name is rushikesh.</p>
+<p class="center">I did my homework</p>
+</head>
+<html>
